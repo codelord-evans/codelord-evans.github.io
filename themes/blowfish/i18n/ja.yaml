@@ -1,0 +1,65 @@
+global:
+  language: "🇯🇵"
+
+article:
+  anchor_label: "アンカー"
+  date: "{{ .Date }}"
+  date_updated: "更新日: {{ .Date }}"
+  draft: "下書き"
+  edit_title: "編集"
+  reading_time:
+    one: "{{ .Count }} 分"
+    other: "{{ .Count }} 分"
+  reading_time_title: "読むのに必要な時間"
+  table_of_contents: "目次"
+  word_count:
+    one: "{{ .Count }} 文字"
+    other: "{{ .Count }} 文字"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
+
+author:
+  byline_title: "著者"
+
+code:
+  copy: "コピー"
+  copied: "コピーしました"
+
+error:
+  404_title: "ページが見つかりませんでした。 :confused:"
+  404_error: "Error 404"
+  404_description: "ご要望のページは存在しないようです。"
+
+footer:
+  dark_appearance: "ダークモードへ切り替え"
+  light_appearance: "ライトモードへ切り替え"
+  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "外部サイトへリンク"
+  no_articles: "ここに掲載する記事はまだありません。"
+
+nav:
+  scroll_to_top_title: "TOPへスクロール"
+  skip_to_main: "メインコンテンツへスキップ"
+
+search:
+  open_button_title: "検索 (/)"
+  close_button_title: "閉じる (Esc)"
+  input_placeholder: "検索"
+
+sharing:
+  email: " Eメールを送る"
+  facebook: "Facebookでシェアする"
+  linkedin: "LinkedInでシェアする"
+  pinterest: "Pinterestでピンする"
+  reddit: "Redditに投稿する"
+  twitter: "Twitterに投稿する"
+
+shortcode:
+  recent_articles: "最近の記事"
+
+recent:
+  show_more: "もっと見る"

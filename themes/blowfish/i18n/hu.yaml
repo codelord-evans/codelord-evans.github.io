@@ -1,0 +1,65 @@
+global:
+  language: "🇭🇺"
+
+article:
+  anchor_label: "Horgony"
+  date: "{{ .Date }}"
+  date_updated: "Frissítve: {{ .Date }}"
+  draft: "Vázlat"
+  edit_title: "Tartalom szerkesztése"
+  reading_time:
+    one: "{{ .Count }} perc"
+    other: "{{ .Count }} perc"
+  reading_time_title: "Olvasási idő"
+  table_of_contents: "Tartalomjegyzék"
+  word_count:
+    one: "{{ .Count }} szó"
+    other: "{{ .Count }} szó"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
+
+author:
+  byline_title: "Szerző"
+
+code:
+  copy: "Másolás"
+  copied: "Másolva"
+
+error:
+  404_title: "Az oldal nem található :confused:"
+  404_error: "404-es hiba"
+  404_description: "Úgy tűnik a kért oldal nem található."
+
+footer:
+  dark_appearance: "Váltás sötét megjelenésre"
+  light_appearance: "Váltás világos megjelenésre"
+  powered_by: "Működteti {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Link külső oldalra"
+  no_articles: "Itt még nincsenek tartalmak."
+
+nav:
+  scroll_to_top_title: "Görgess fel"
+  skip_to_main: "Ugrás a tartalomra"
+
+search:
+  open_button_title: "Keresés (/)"
+  close_button_title: "Bezárás (Esc)"
+  input_placeholder: "Keresés"
+
+sharing:
+  email: "Küldés emailben"
+  facebook: "Megosztás a Facebookon"
+  linkedin: "Megosztás a LinkedInen"
+  pinterest: "Megosztás a Pinteresten"
+  reddit: "Megosztás a Redditen"
+  twitter: "Megosztás a Twitteren"
+
+shortcode:
+  recent_articles: "Friss"
+
+recent:
+  show_more: "Mutass Többet"

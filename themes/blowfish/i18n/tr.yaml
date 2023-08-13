@@ -1,0 +1,65 @@
+global:
+  language: "🇹🇷"
+
+article:
+  # anchor_label: "Anchor"
+  date: "{{ .Date }}"
+  date_updated: "Güncellendi: {{ .Date }}"
+  draft: "Taslak"
+  edit_title: "İçeriği düzenle"
+  reading_time:
+    one: "{{ .Count }} dk"
+    other: "{{ .Count }} dk"
+  reading_time_title: "Okuma süresi"
+  word_count:
+    one: "{{ .Count }} kelime"
+    other: "{{ .Count }} kelime"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
+
+author:
+  byline_title: "Yazar"
+
+code:
+  copy: "Kopyala"
+  copied: "Kopyalandı"
+
+error:
+  404_title: "Sayfa Bulunamadı :confused:"
+  404_error: "Hata 404"
+  404_description: "Görünüşe göre istediğiniz sayfa mevcut değil."
+
+footer:
+  dark_appearance: "Koyu görünüme geç"
+  light_appearance: "Açık görünüme geç"
+  powered_by: "{{ .Hugo }} &amp; {{ .Theme }} tarafından desteklenmektedir."
+
+list:
+  externalurl_title: "Harici siteye bağlantı"
+  no_articles: "Henüz burada listelenecek bir makale yok."
+
+nav:
+  scroll_to_top_title: "Yukarı çık"
+  skip_to_main: "Ana içeriğe geç"
+
+search:
+  open_button_title: "Ara (/)"
+  close_button_title: "Kapat (Esc)"
+  input_placeholder: "Ara"
+
+sharing:
+  email: "Email ile gönder"
+  facebook: "Facebook'ta paylaş"
+  linkedin: "LinkedIn'te paylaş"
+  pinterest: "Pinterest'te pinle"
+  reddit: "Reddit'te gönder"
+  twitter: "Twitter'da Tweetle"
+
+shortcode:
+  recent_articles: "Güncel"
+  icon_none: "Icon bulunamadı."
+
+recent:
+  show_more: "Daha Fazla Göster"

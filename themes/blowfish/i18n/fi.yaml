@@ -1,0 +1,65 @@
+global:
+  language: "🇫🇮"
+
+article:
+  anchor_label: "Ankkuri"
+  date: "{{ .Date }}"
+  date_updated: "Päivitetty: {{ .Date }}"
+  draft: "Luonnos"
+  edit_title: "Muokkaa sisältöä"
+  reading_time:
+    one: "{{ .Count }} minuutti"
+    other: "{{ .Count }} minuuttia"
+  reading_time_title: "Lukuaika"
+  table_of_contents: "Sisällysluettelo"
+  word_count:
+    one: "{{ .Count }} sana"
+    other: "{{ .Count }} sanaa"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
+
+author:
+  byline_title: "Kirjoittaja"
+
+code:
+  copy: "Kopioi"
+  copied: "Kopioitu"
+
+error:
+  404_title: "Sivua ei löydy :confused:"
+  404_error: "Virhe 404"
+  404_description: "Valitettavasti pyytämääsi sivua ei ole olemassa."
+
+footer:
+  dark_appearance: "Vaihda tummaan teemaan"
+  light_appearance: "Vaihda valoisaan teemaan"
+  powered_by: "Voimanlähteenä {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Linkki ulkoiselle sivustolle"
+  no_articles: "Täällä ei vielä ole listattavia artikkeleita, vielä."
+
+nav:
+  scroll_to_top_title: "Takaisin ylös"
+  skip_to_main: "Siirry pääsisältöön"
+
+search:
+  open_button_title: "Hae (/)"
+  close_button_title: "Sulje (Esc)"
+  input_placeholder: "Haku"
+
+sharing:
+  email: "Lähetä sähköpostilla"
+  facebook: "Jaa Facebookissa"
+  linkedin: "Jaa LinkedInissä"
+  pinterest: "Kiinnitä Pinterestiin"
+  reddit: "Lähetä Reddittiin"
+  twitter: "Twiittaa Twitterissä"
+
+shortcode:
+  recent_articles: "Viimeaikaiset"
+
+recent:
+  show_more: "Näytä Lisää"

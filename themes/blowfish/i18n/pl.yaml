@@ -1,0 +1,71 @@
+global:
+  language: "🇵🇱"
+
+article:
+  anchor_label: "Kotwica"
+  date: "{{ .Date }}"
+  date_updated: "Zaktualizowano: {{ .Date }}"
+  draft: "Szkic"
+  edit_title: "Edytuj zawartość"
+  reading_time:
+    one: "{{ .Count }} min"
+    other: "{{ .Count }} min"
+  reading_time_title: "Czas czytania"
+  table_of_contents: "Spis treści"
+  word_count:
+    one: "{{ .Count }} słowo"
+    other: "{{ .Count }} słów"
+  views:
+    one: "{{ .Count }} wyświetlenie"
+    other: "{{ .Count }} wyświetleń"
+  likes:
+    one: "{{ .Count }} polubienie"
+    other: "{{ .Count }} polubień"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
+
+author:
+  byline_title: "Autor"
+
+code:
+  copy: "Kopiuj"
+  copied: "Skopiowano"
+
+error:
+  404_title: "Strona nie znaleziona :confused:"
+  404_error: "Błąd 404"
+  404_description: "Wydaje się, że strona, którą chcesz wyświetlić, nie istnieje."
+
+footer:
+  dark_appearance: "Zmień na tryb ciemny"
+  light_appearance: "Zmień na tryb jasny"
+  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Link do zewnętrznej strony"
+  no_articles: "Nie ma jeszcze artykułów do wyświetlenia"
+
+nav:
+  scroll_to_top_title: "Przewiń do góry"
+  skip_to_main: "Przewiń do głównej treści"
+
+search:
+  open_button_title: "Szukaj (/)"
+  close_button_title: "Zamknij (Esc)"
+  input_placeholder: "Szukaj"
+
+sharing:
+  email: "Wyślij jako email"
+  facebook: "Udostępnij na Facebooku"
+  linkedin: "Udostępnij na LinkedInie"
+  pinterest: "Przypnij na Pinterest"
+  reddit: "Prześlij na Reddita"
+  twitter: "Tweetuj na Twitterze"
+
+shortcode:
+  recent_articles: "Ostatnie artykuły"
+
+recent:
+  show_more: "Pokaż Więcej"

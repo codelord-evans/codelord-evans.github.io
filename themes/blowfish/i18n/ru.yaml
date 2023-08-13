@@ -1,0 +1,71 @@
+global:
+  language: "🇷🇺"
+
+article:
+  anchor_label: "Якорь"
+  date: "{{ .Date }}"
+  date_updated: "Обновлено: {{ .Date }}"
+  draft: "Черновик"
+  edit_title: "Редактировать содержимое"
+  reading_time:
+    one: "{{ .Count }} минута"
+    other: "{{ .Count }} минут"
+  reading_time_title: "Время чтения"
+  table_of_contents: "Оглавление"
+  word_count:
+    one: "{{ .Count }} слово"
+    other: "{{ .Count }} слов"
+  views:
+    one: "{{ .Count }} просмотр"
+    other: "{{ .Count }} просмотров"
+  likes:
+    one: "{{ .Count }} нравится"
+    other: "{{ .Count }} нравится"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
+
+author:
+  byline_title: "Автор"
+
+code:
+  copy: "Копировать"
+  copied: "Скопировано"
+
+error:
+  404_title: "Страница не найдена: в замешательстве:"
+  404_error: "Ошибка 404"
+  404_description: "Похоже, запрошенная вами страница не существует."
+
+footer:
+  dark_appearance: "Переключить на темный вид"
+  light_appearance: "Переключить на светлый вид"
+  powered_by: "Работает на {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Ссылка на внешний сайт"
+  no_articles: "Здесь пока нет статей."
+
+nav:
+  scroll_to_top_title: "Пролистать наверх"
+  skip_to_main: "Перейти к основному содержимому"
+
+search:
+  open_button_title: "Поиск (/)"
+  close_button_title: "Закрыть (Esc)"
+  input_placeholder: "Поиск"
+
+sharing:
+  email: "Отправить по электронной почте"
+  facebook: "Поделиться через Facebook"
+  linkedin: "Поделиться через LinkedIn"
+  pinterest: "PДобавить в Pinterest"
+  reddit: "Отправить в Reddit"
+  twitter: "Твитнуть в Twitter"
+
+shortcode:
+  recent_articles: "Недавние"
+
+recent:
+  show_more: "Показать еще"

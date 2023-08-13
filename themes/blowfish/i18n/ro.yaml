@@ -1,0 +1,65 @@
+global:
+  language: "🇷🇴"
+
+article:
+  anchor_label: "Link"
+  date: "{{ .Date }}"
+  date_updated: "Modificat la: {{ .Date }}"
+  draft: "Draft"
+  edit_title: "Editează"
+  reading_time:
+    one: "{{ .Count }} min"
+    other: "{{ .Count }} minute"
+  reading_time_title: "Citit în"
+  table_of_contents: "Cuprins"
+  word_count:
+    one: "{{ .Count }} cuvânt"
+    other: "{{ .Count }} cuvinte"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
+
+author:
+  byline_title: "Autor"
+
+code:
+  copy: "Copiază"
+  copied: "Copiat"
+
+error:
+  404_title: "Pagină Lipsă :confused:"
+  404_error: "Eroare 404"
+  404_description: "Se pare că pagina pe care o cauți nu există."
+
+footer:
+  dark_appearance: "Schimbă la tema de noapte"
+  light_appearance: "Schimbă la tema normală"
+  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Link la site extern"
+  no_articles: "Nu avem încă niciun articol."
+
+nav:
+  scroll_to_top_title: "Înapoi sus"
+  skip_to_main: "Sari la conținut"
+
+search:
+  open_button_title: "Caută (/)"
+  close_button_title: "Închide (Esc)"
+  input_placeholder: "Caută"
+
+sharing:
+  email: "Trimite pe email"
+  facebook: "Postează pe Facebook"
+  linkedin: "Postează LinkedIn"
+  pinterest: "Pune pe Pinterest"
+  reddit: "Postează pe Reddit"
+  twitter: "Scrie pe Twitter"
+
+shortcode:
+  recent_articles: "Cele mai noi"
+
+recent:
+  show_more: "Afișați mai multe"

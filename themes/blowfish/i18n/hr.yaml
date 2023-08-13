@@ -1,0 +1,71 @@
+global:
+  language: "🇭🇷"
+
+article:
+  anchor_label: "Sidro"
+  date: "{{ .Date }}"
+  date_updated: "Ažurirano: {{ .Date }}"
+  draft: "Nacrt"
+  edit_title: "Uredi sadržaj"
+  reading_time:
+    one: "{{ .Count }} minut"
+    other: "{{ .Count }} minuta"
+  reading_time_title: "Vrijeme čitanja"
+  table_of_contents: "Tablica sadržaja"
+  word_count:
+    one: "{{ .Count }} riječ"
+    other: "{{ .Count }} riječi"
+  views:
+    one: "{{ .Count }} pregled"
+    other: "{{ .Count }} pregleda"
+  likes:
+    one: "{{ .Count }} sviđa se"
+    other: "{{ .Count }} sviđa se"
+  part_of_series: "This article is part of a series."
+  part: "Part"
+  this_article: "This Article"
+  related_articles: "Related"
+
+author:
+  byline_title: "Autor"
+
+code:
+  copy: "Kopiraj"
+  copied: "Kopirano"
+
+error:
+  404_title: "Stranica nije pronađena :confused:"
+  404_error: "Greška 404"
+  404_description: "Čini se da stranica koju ste zatražili ne postoji."
+
+footer:
+  dark_appearance: "Promjeni na tamni izgled"
+  light_appearance: "Promijeni na svijetli izgled"
+  powered_by: "Napravljeno pomoću {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Link to external site"
+  no_articles: "Ovdje još nema članaka"
+
+nav:
+  scroll_to_top_title: "Otiđi na vrh"
+  skip_to_main: "Otiđi na glavni sadržaj"
+
+search:
+  open_button_title: "Pretraga (/)"
+  close_button_title: "Izađi (Esc)"
+  input_placeholder: "Pretraži"
+
+sharing:
+  email: "Pošalji putem e-pošte"
+  facebook: "Podijeli na Facebook"
+  linkedin: "Podijeli na LinkedIn"
+  pinterest: "Podijeli na Pinterest"
+  reddit: "Objavi na Reddit"
+  twitter: "Tweet na Twitter"
+
+shortcode:
+  recent_articles: "Nedavno"
+
+recent:
+  show_more: "Prikaži Više"
