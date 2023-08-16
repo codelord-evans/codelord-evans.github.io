@@ -35,8 +35,8 @@ disableImageOptimization = true
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "cver.jpg" # used in: hero, and card
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  #homepageImage = "cver.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
