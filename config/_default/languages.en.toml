@@ -19,7 +19,7 @@ title = "MuuoCodes"
    headline = "I'm only human"
    bio = "I am a python & C Developer who's enthuthiastic about ML & AI"
    links = [
-     { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:evansmuuo@outlook.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -59,6 +59,6 @@ title = "MuuoCodes"
 #     { twitch = "https://twitch.tv/username" },
      { twitter = "https://twitter.com/evans_drv" },
 #     { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://youtube.com/muuo.codes" },
+     { youtube = "https://youtube.com/muuocodes" },
 #     { ko-fi = "https://ko-fi.com/username" },
    ]
