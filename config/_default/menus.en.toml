@@ -64,6 +64,11 @@
   url = "/about/"
   weight = 20
 
+[[main]]
+pre = "github"
+url = "https://github.com/codelord_evans"
+weight = 50
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -79,3 +84,8 @@
    name = "Categories"
    pageRef = "categories"
    weight = 20
+   
+ [[footer]]
+     pre = "twitter"
+     url = "https://x.com/evans_drv"
+     weight = 30
