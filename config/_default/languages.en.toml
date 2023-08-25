@@ -16,8 +16,9 @@ title = "MuuoCodes"
  [author]
    name = "Evans Muuo"
    image = "evans.jpg"
-   headline = "Welcome to MuuoCodes✍️"
-   bio = "I am a python & C Developer who's enthuthiastic about ML & AI"
+   headline = "Welcome to MuuoCodes✍️{{< typeit tag=h3 speed=50 breakLines=false loop=true >}} It good to see you here🤝️ {{< /typeit >}}"
+   
+   bio = "I am a python & C Developer who's enthuthiastic about ML & AI."
    links = [
 #     { email = "mailto:evansmuuo@outlook.com" },
 #     { link = "https://link-to-some-website.com/" },

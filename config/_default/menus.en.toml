@@ -84,8 +84,3 @@ weight = 50
    name = "Categories"
    pageRef = "categories"
    weight = 20
-   
- [[footer]]
-     pre = "twitter"
-     url = "https://x.com/evans_drv"
-     weight = 30
