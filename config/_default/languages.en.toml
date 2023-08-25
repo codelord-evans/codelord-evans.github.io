@@ -16,7 +16,7 @@ title = "MuuoCodes"
  [author]
    name = "Evans Muuo"
    image = "evans.jpg"
-   headline = "Welcome to MuuoCodes✍️{{< typeit tag=h3 speed=50 breakLines=false loop=true >}} It good to see you here🤝️ {{< /typeit >}}"
+   headline = "Welcome to MuuoCodes✍️{{< typeit tag=h3 speed=50 breakLines=false loop=true >}}It's good to see you here{{< /typeit >}}"
    
    bio = "I am a python & C Developer who's enthuthiastic about ML & AI."
    links = [
