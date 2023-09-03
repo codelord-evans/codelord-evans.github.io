@@ -1,7 +1,7 @@
 ---
 title: "Why you will never complete the ALX SWE 12 month free course"
 date: 2023-08-23T11:46:15+03:00
-draft: false
+draft: true
 ---
 ## A little info About My background
  
