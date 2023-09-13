@@ -50,7 +50,7 @@ disableImageOptimization = false
   showViews = false
   showLikes = false
   showDateUpdated = false
-  showAuthor = false
+  showAuthor = true
   showHero = true
   heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -70,7 +70,7 @@ disableImageOptimization = false
   relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = true
-  showWordCount = true
+  showWordCount = false
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
@@ -128,7 +128,7 @@ disableImageOptimization = false
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = ""
+  # identifier = "buymeacoffee.com/EvansMuuo"
   # globalWidget = true
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
