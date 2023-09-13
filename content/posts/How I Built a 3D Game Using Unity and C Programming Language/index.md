@@ -88,6 +88,6 @@ Thank you for joining me on this exhilarating adventure! I hope you enjoyed this
 
 References:
 
-[Link to Deployed Site](https://www.github.com)
+[Link to Deployed Site](https://github.com/codelord-evans/3D-Maze-Game)
 
-[My LinkedIn Profile](https://www.linkedin.com/evansmuuo)
+[My LinkedIn Profile](https://www.linkedin.com/in/evansmuuo/)
