@@ -128,11 +128,11 @@ disableImageOptimization = false
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = "buymeacoffee.com/EvansMuuo"
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+   identifier = "buymeacoffee.com/EvansMuuo"
+   globalWidget = true
+   globalWidgetMessage = "Hello"
+   globalWidgetColor = "#FFDD00"
+   globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
