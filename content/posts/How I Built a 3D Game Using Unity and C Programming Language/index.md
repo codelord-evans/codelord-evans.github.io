@@ -64,15 +64,16 @@ int main() {
     return 0;
 }
 ```
-Hosting Platform: I opted to deploy our game on a cloud hosting platform such as Heroku or AWS. These platforms provided scalability, reliability, and easy deployment options for my game.
+Hosting Platform: I opted to deploy our game on a cloud hosting platform, AWS to be specific. This is because the plartform was the most suitable I found for scalability, reliability, and easy deployment options for my game.
 ## Key Features.
 Throughout the development process, I implemented several key features that enhanced the gameplay experience:
 
-Maze Generation: My game utilized advanced maze generation algorithms to ensure each playthrough offered a unique maze layout. This added variety and replay value for players.
+`Maze Generation`: My game utilized advanced maze generation algorithms to ensure each playthrough offered a unique maze layout. This added variety and replay value for players.
 
-Player Controls: I developed intuitive and responsive player controls, allowing smooth navigation through the maze. Players could move using keyboard inputs or touch gestures, depending on the device they were using.
+`Player Controls`: I developed intuitive and responsive player controls, allowing smooth navigation through the maze. Players could move using keyboard inputs or touch gestures, depending on the device they were using.
 
-Scoring and Leaderboard: I integrated a scoring system that rewarded players based on their completion time and efficiency in solving the maze. Players could compete against friends and other players worldwide on the leaderboard, fostering a sense of competition and camaraderie.
+`Scoring and Leaderboard`: I integrated a scoring system that rewarded players based on their completion time and efficiency in solving the maze. Players could compete against friends and other players worldwide on the leaderboard, fostering a sense of competition and camaraderie.
+![](player.png)
 
 ## Most Difficult Technical Challenge.
 One of the most challenging technical aspects I encountered during the development process was implementing efficient collision detection. As players moved through the maze, we needed to ensure they couldn't pass through walls or obstacles. Achieving smooth and accurate collision detection required careful consideration of player movement, maze layout, and optimization techniques. We spent considerable time refining the algorithms and testing various scenarios to ensure an optimal gaming experience.
@@ -85,7 +86,14 @@ In summary, my 2D Maze Game project was a journey filled with innovation, challe
 
 Through this project, I not only accomplished my goal of building an engaging maze game but also fostered personal growth and deepened my passion for game development. I look forward to utilizing the knowledge and experience gained from this project in future endeavors.
 
-Thank you for joining me on this exhilarating adventure! I hope you enjoyed this blog post and invite you to experience the thrill of our 2D Maze Game firsthand.
+Thank you for joining me on this exhilarating adventure! I hope you enjoyed this blog post and invite you to experience the thrill of our 2D Maze Game firsthand. 
+
+{{< badge >}} 
+check it out on {{< icon "github" >}}
+{{< /badge >}}
+
+{{< github repo="codelord-evans/3D-Maze-Game" >}}
+
 
 References:
 
