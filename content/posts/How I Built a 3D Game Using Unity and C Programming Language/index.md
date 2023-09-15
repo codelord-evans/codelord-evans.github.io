@@ -17,13 +17,13 @@ The inspiration for the 2D Maze Game came from our collective love for puzzles a
 ## Technologies and Architecture.
 To bring the 2D Maze Game to life, I utilized the following technologies and architecture:
 
-Frontend Technologies: For the frontend development, I chose to use HTML5, CSS3, and JavaScript. I opted not to use any additional frameworks to solidify our understanding of core web technologies and ensure a lightweight and fast gaming experience.
+`Frontend Technologies`: For the frontend development, I chose to use HTML5, CSS3, and JavaScript. I opted not to use any additional frameworks to solidify our understanding of core web technologies and ensure a lightweight and fast gaming experience.
 
-Backend Technologies: The backend of my game was built using Node.js and Express.js. These technologies provided a robust and scalable server-side framework, enabling me to handle game logic, database interactions, and user authentication.
+`Backend Technologies`: The backend of my game was built using Node.js and Express.js. These technologies provided a robust and scalable server-side framework, enabling me to handle game logic, database interactions, and user authentication.
 
-Database: I utilized MongoDB as my database system to store player scores, progress, and other game-related data. MongoDB's flexibility and scalability were well-suited for my project's requirements.
+`Database`: I utilized MongoDB as my database system to store player scores, progress, and other game-related data. MongoDB's flexibility and scalability were well-suited for my project's requirements.
 
-APIs: I created custom APIs for user registration, score tracking, and leaderboard functionality. These APIs allowed seamless communication between the front-end and back-end, ensuring a smooth gaming experience.
+`APIs`: I created custom APIs for user registration, score tracking, and leaderboard functionality. These APIs allowed seamless communication between the front-end and back-end, ensuring a smooth gaming experience.
 
 ```c
 #include <stdio.h>
