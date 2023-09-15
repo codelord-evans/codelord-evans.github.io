@@ -12,13 +12,13 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+ mainSections = ["posts", "videos"]
 # robots = ""
 
 disableImageOptimization = false
 
- # defaultBackgroundImage = "cv.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+  #defaultBackgroundImage = "cv.jpg" # used as default for background images 
+  #defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
  highlightCurrentMenuArea = true
  smartTOC = true
@@ -96,7 +96,7 @@ disableImageOptimization = false
 [taxonomy]
   showTermCount = false
   showHero = true
-   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -128,7 +128,7 @@ disableImageOptimization = false
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-   identifier = "buymeacoffee.com/EvansMuuo"
+   identifier = "EvansMuuo"
    globalWidget = true
    globalWidgetMessage = "Hello"
    globalWidgetColor = "#FFDD00"

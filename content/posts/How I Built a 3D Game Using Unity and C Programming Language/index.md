@@ -6,6 +6,7 @@ tags: ["game", "unity", "Programming", "Projects"]
 categories: ["gaming"]
 ---
 Welcome to my blog post, where I'll take you on a deep dive into the development journey of my exciting 2D Maze Game. In this post, I'll share the inspiration behind the project, discuss the technologies and architecture I utilized, highlight key features, and delve into the challenges and learnings I encountered along the way. Let's embark on this immersive adventure!
+![](image-resizing.gif)
 
 ## The Purpose of the Project.
 The purpose of my project was to create an engaging and challenging 2D maze game that tests players' problem-solving skills. I wanted to provide a captivating gaming experience that offers both entertainment and a sense of accomplishment. My goal was to develop a game that would appeal to a wide audience, from casual gamers looking for a quick diversion to avid gamers seeking a thrilling maze-solving adventure.
