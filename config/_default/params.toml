@@ -17,7 +17,7 @@ enableCodeCopy = true
 
 disableImageOptimization = false
 
-  #defaultBackgroundImage = "cv.jpg" # used as default for background images 
+  defaultBackgroundImage = "bg.jpg" # used as default for background images 
   #defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
  highlightCurrentMenuArea = true
