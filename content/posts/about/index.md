@@ -22,8 +22,9 @@ I believe that Software Enginering and Computer Science are not just professions
 Whether you a pro Developer or just dipping your toes in the world of code, bookmark this blog and visit back everyday for new content. I would love you to join me in this adventure  as I explore this ever-evolving tech landscape.
 
 {{< alert "twitter" >}}
-Don't forget to [follow me](https://twitter.com/evans_drv
+Don't forget to [follow me](https://twitter.com/evans_drv) on Twitter.
 {{< /alert >}}
+
 
 
 
