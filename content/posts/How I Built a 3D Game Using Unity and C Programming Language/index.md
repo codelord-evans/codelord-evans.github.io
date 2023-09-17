@@ -92,7 +92,7 @@ Thank you for joining me on this exhilarating adventure! I hope you enjoyed this
 check it out on {{< icon "github" >}}
 {{< /badge >}}
 
-{{< github repo="codelord-evans/3D-Maze-Game" >}}
+
 
 
 References:

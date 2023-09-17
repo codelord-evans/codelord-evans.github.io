@@ -6,38 +6,8 @@
     <description>Recent content in Videos on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Evans Muuo</copyright>
-    <lastBuildDate>Fri, 18 Aug 2023 15:40:35 +0300</lastBuildDate><atom:link href="https://muuo.codes/videos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Video3</title>
-      <link>https://muuo.codes/videos/video3/</link>
-      <pubDate>Fri, 18 Aug 2023 15:40:35 +0300</pubDate>
-      
-      <guid>https://muuo.codes/videos/video3/</guid>
-      <description>This is video 3 of 1000 .</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/videos/video3/featured.png" />
-    </item>
-    
-    <item>
-      <title>Video2</title>
-      <link>https://muuo.codes/videos/video2/</link>
-      <pubDate>Fri, 18 Aug 2023 15:40:25 +0300</pubDate>
-      
-      <guid>https://muuo.codes/videos/video2/</guid>
-      <description>This is video 2 of 1000</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/videos/video2/featured.png" />
-    </item>
-    
-    <item>
-      <title>Video1</title>
-      <link>https://muuo.codes/videos/video1/</link>
-      <pubDate>Fri, 18 Aug 2023 15:40:16 +0300</pubDate>
-      
-      <guid>https://muuo.codes/videos/video1/</guid>
-      <description>This is video 1 of 1000</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/videos/video1/featured.png" />
-    </item>
-    
+    <copyright>© 2023 Muuo Codes</copyright>
+    <lastBuildDate>Fri, 18 Aug 2023 15:36:33 +0300</lastBuildDate><atom:link href="https://muuo.codes/videos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Youtubevideos</title>
       <link>https://muuo.codes/videos/youtubevideos/</link>
