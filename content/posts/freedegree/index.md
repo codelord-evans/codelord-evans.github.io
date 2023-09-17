@@ -1,7 +1,7 @@
 ---
 title: "Earn a Degree in Computer Science for Free"
 date: 2023-08-23T11:45:48+03:00
-draft: false
+draft: true
 ---
 > Every individual has the potential to make a difference. Education is the tool that helps unlock that potential.
 

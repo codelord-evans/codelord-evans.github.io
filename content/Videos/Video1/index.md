@@ -1,7 +1,7 @@
 ---
 title: "Video1"
 date: 2023-08-18T15:40:16+03:00
-draft: false
+draft: true
 menu: Videos
 ---
 

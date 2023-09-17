@@ -1,7 +1,7 @@
 ---
 title: "How To Setup a Blog for Free"
 date: 2023-08-23T13:58:34+03:00
-draft: false
+draft: true
 ---
 
 >  "Free things often come at the highest price."
