@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>learnpython on MuuoCodes</title>
+    <title>Learn Python on MuuoCodes</title>
     <link>https://muuo.codes/posts/learnpython/</link>
-    <description>Recent content in learnpython on MuuoCodes</description>
+    <description>Recent content in Learn Python on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Muuo Codes</copyright>
@@ -14,7 +14,7 @@
       <pubDate>Mon, 18 Sep 2023 01:56:09 +0300</pubDate>
       
       <guid>https://muuo.codes/posts/learnpython/whatispython/</guid>
-      <description></description>
+      <description>A programming language is a formal language , meaning that it was made by human beings for specific purposes.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learnpython/whatispython/featured.jpg" />
     </item>
     
