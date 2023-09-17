@@ -4,8 +4,8 @@
   
     
       <url>
-            <loc>https://muuo.codes/posts/learnpython/learnpython/</loc>
-            <lastmod>2023-09-17T23:40:07+03:00</lastmod>
+            <loc>https://muuo.codes/posts/</loc>
+            <lastmod>2023-09-18T01:56:09+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -13,16 +13,38 @@
   
     
       <url>
-            <loc>https://muuo.codes/posts/</loc>
-            <lastmod>2023-09-17T23:40:07+03:00</lastmod>
+            <loc>https://muuo.codes/posts/learnpython/whatispython/</loc>
+            <lastmod>2023-09-18T01:56:09+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://muuo.codes/posts/learnpython/</loc>
+            <lastmod>2023-09-18T01:56:09+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
     
   
     
       <url>
             <loc>https://muuo.codes/</loc>
+            <lastmod>2023-09-18T01:56:09+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://muuo.codes/posts/learnpython/tutorial1/</loc>
             <lastmod>2023-09-17T23:40:07+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -54,8 +76,8 @@
   
     
       <url>
-            <loc>https://muuo.codes/videos/</loc>
-            <lastmod>2023-08-18T15:36:33+03:00</lastmod>
+            <loc>https://muuo.codes/videos/howtoinstalllinuxonvb/</loc>
+            <lastmod>2020-11-06T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -63,8 +85,8 @@
   
     
       <url>
-            <loc>https://muuo.codes/videos/youtubevideos/</loc>
-            <lastmod>2023-08-18T15:36:33+03:00</lastmod>
+            <loc>https://muuo.codes/videos/</loc>
+            <lastmod>2020-11-06T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -76,8 +98,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     

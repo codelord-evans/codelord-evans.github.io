@@ -8,16 +8,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>gaming &middot; MuuoCodes</title>
-  <meta name="title" content="gaming &middot; MuuoCodes" />
+  <title>learnpython &middot; MuuoCodes</title>
+  <meta name="title" content="learnpython &middot; MuuoCodes" />
+  
+  <meta name="description" content="Learn the Python Programming Language" />
   
   
   
+  <link rel="canonical" href="https://muuo.codes/posts/learnpython/" />
   
-  
-  <link rel="canonical" href="https://muuo.codes/categories/gaming/" />
-  
-  <link rel="alternate" type="application/rss+xml" href="/categories/gaming/index.xml" title="MuuoCodes" />
+  <link rel="alternate" type="application/rss+xml" href="/posts/learnpython/index.xml" title="MuuoCodes" />
   
   
   
@@ -63,15 +63,15 @@
   
   
   
-  <meta property="og:title" content="gaming" />
-<meta property="og:description" content="" />
+  <meta property="og:title" content="learnpython" />
+<meta property="og:description" content="Learn the Python Programming Language" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://muuo.codes/categories/gaming/" />
+<meta property="og:url" content="https://muuo.codes/posts/learnpython/" />
 
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="gaming"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="learnpython"/>
+<meta name="twitter:description" content="Learn the Python Programming Language"/>
 
   
   
@@ -434,9 +434,13 @@
       
 
 
+
+
+
+
  <header>
   
-  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">gaming</h1>
+  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">learnpython</h1>
   <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
     
 
@@ -467,38 +471,129 @@
 
 
   </div>
+  <script>
+    var oid = "views_posts\/LearnPython\/_index.md"
+    var oid_likes = "likes_posts\/LearnPython\/_index.md"
+  </script>
+  
+  
+  <script type="text/javascript" src="/js/page.min.0e49973b4ad0a382c7c6012d8bff8226316642daabc4f8a20477bd08674f3da6e2fa993bc20ad4f51e7c5bb68e6f913a207a7c4fe37ea0e7b806894afce0a64e.js" integrity="sha512-DkmXO0rQo4LHxgEti/&#43;CJjFmQtqrxPiiBHe9CGdPPabi&#43;pk7wgrU9R58W7aOb5E6IHp8T&#43;N&#43;oOe4BolK/OCmTg=="></script>
   </header>
+  <section class="mt-12 prose flex max-w-full flex-col dark:prose-invert lg:flex-row">
+    
+    <div class="order-first px-0 lg:order-last lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 lg:sticky lg:top-[140px]">
+        <details open class="mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#this-section-contains-everything-you-need-to-know-about-blowfish-if-youre-new">This section contains everything you need to know about Blowfish. If you&rsquo;re new,</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#this-section-contains-everything-you-need-to-know-about-blowfish-if-youre-new">This section contains everything you need to know about Blowfish. If you&rsquo;re new,</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
 
-  <section class="flex flex-col max-w-full mt-0 mb-5 prose dark:prose-invert lg:flex-row">
+ 
+<script>
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = e.attr('id');
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+           
+            $(e).removeClass('active').siblings('ul').hide();
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+         
+          $toc.find('a').parent('li').find('ul').hide();
+        
+        onScroll();
+      });
+    }
+  })();
+</script>
+
+      </div>
+    </div>
     
-    <script>
-      var oid = "views_term_gaming"
-      var oid_likes = "likes_term_gaming"
-    </script>
+    <div class="min-w-0 min-h-0 max-w-prose">
+      <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+  Simple, yet powerful. Learn how to use python to build rea world applications.
+</div>
+
+<div id="this-section-contains-everything-you-need-to-know-about-blowfish-if-youre-new" class="anchor"></div>
+<h2 class="relative group">This section contains everything you need to know about Blowfish. If you&rsquo;re new, 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#this-section-contains-everything-you-need-to-know-about-blowfish-if-youre-new" aria-label="Anchor">#</a></span>        
     
-    
-    <script type="text/javascript" src="/js/page.min.0e49973b4ad0a382c7c6012d8bff8226316642daabc4f8a20477bd08674f3da6e2fa993bc20ad4f51e7c5bb68e6f913a207a7c4fe37ea0e7b806894afce0a64e.js" integrity="sha512-DkmXO0rQo4LHxgEti/&#43;CJjFmQtqrxPiiBHe9CGdPPabi&#43;pk7wgrU9R58W7aOb5E6IHp8T&#43;N&#43;oOe4BolK/OCmTg=="></script>
+</h2>
+
+    </div>
+   
+
+
+
   </section>
-
-
   
 
-  
-  
-  
-
-  
-
-  <section class="space-y-10 w-full">
-    
-    
-    <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-      2023
-    </h2>
     
     
     
 
+    
+
+    <section class="space-y-10 w-full">
+      
+      
+      <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
+        2023
+      </h2>
+      
+      
+      
 
 
 
@@ -520,16 +615,132 @@
 
 
 
-  <a class="flex flex-wrap article " href="/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/">
+
+  <a class="flex flex-wrap article " href="/posts/learnpython/whatispython/">
     
         
-        <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/featured_huac659a5faa12baf6a9c64400698e1636_42927_600x0_resize_box_3.png);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/posts/learnpython/whatispython/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_845428_600x0_resize_q75_box.jpg);"></div>
         
       <div class=" mt-3 md:mt-0">
       <div class="items-center text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/">How I Built a 3D Game Using Unity and C Programming Language</div>
+          href="/posts/learnpython/whatispython/">Hello World| Python</div>
+        
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+
+  
+  
+</div>
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+      </div>
+      
+    </div>
+  </a>
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article " href="/posts/learnpython/tutorial1/">
+    
+        
+        <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/posts/learnpython/tutorial1/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_1383450_600x0_resize_q75_box.jpg);"></div>
+        
+      <div class=" mt-3 md:mt-0">
+      <div class="items-center text-xl font-semibold">
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/posts/learnpython/tutorial1/">A Beginner's Guide to Master Python Programming</div>
         
         
         
@@ -565,12 +776,10 @@
 
 
 
-
-
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-08-24 21:46:30 &#43;0300 EAT">24 August 2023</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+  <span title="Reading time">1 min</span>
   
 
   
@@ -602,68 +811,9 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/gaming/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    gaming
-  </span>
-</span>
-
-  </span>
   
   
   
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/game/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    game
-  </span>
-</span>
-
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/unity/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    unity
-  </span>
-</span>
-
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/programming/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    Programming
-  </span>
-</span>
-
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/projects/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    Projects
-  </span>
-</span>
-
-  </span>
   
   
   
@@ -676,18 +826,24 @@
       
     </div>
   </a>
-    
-    
-  </section>
-
-  
-
-  
-
-  
-
-  
       
+      
+    </section>
+
+    
+
+  
+
+    
+
+  
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   

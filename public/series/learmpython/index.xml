@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LearmPython on MuuoCodes</title>
+    <link>https://muuo.codes/series/learmpython/</link>
+    <description>Recent content in LearmPython on MuuoCodes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Muuo Codes</copyright>
+    <lastBuildDate>Sun, 17 Sep 2023 23:40:07 +0300</lastBuildDate><atom:link href="https://muuo.codes/series/learmpython/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Beginner&#39;s Guide to Master Python Programming</title>
+      <link>https://muuo.codes/posts/learnpython/tutorial1/</link>
+      <pubDate>Sun, 17 Sep 2023 23:40:07 +0300</pubDate>
+      
+      <guid>https://muuo.codes/posts/learnpython/tutorial1/</guid>
+      <description>Would you like to build sleek web applications or to automate some monotonous tasks?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learnpython/tutorial1/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
