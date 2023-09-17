@@ -14,9 +14,9 @@ title = "MuuoCodes"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
-   name = "Evans Muuo"
+   name = "Muuo Codes"
    image = "evans.jpg"
-   headline = "Welcome to MuuoCodes✍️{{< typeit tag=h3 speed=50 breakLines=false loop=true >}}It's good to see you here{{< /typeit >}}"
+   headline = "`Hello World👋️` My name is [`Evans Muuo`](https://www.linkedin.com/in/evansmuuo) and I am an experienced developer and educator passionate about sharing insights, tips, and tutorials to guide you towards becoming a better dev. Whether you are a novice or an experienced developer , I have got you covered with articles that delve into varius programming languages, best practices, and industry trends.   [`Start here`](https://muuo.codes/posts/)" 
    
    bio = "I am a python & C Developer who's enthuthiastic about ML & AI."
    links = [
