@@ -65,9 +65,15 @@
   weight = 20
 
 [[main]]
+  name = "Projects"
+  pageRef = "projects"
+  url = "/projects/"
+  weight = 50
+  
+[[main]]
 pre = "github"
 url = "https://github.com/codelord-evans/Hello-World-"
-weight = 50
+weight = 60
 
 
 # -- Footer Menu --

@@ -4,6 +4,8 @@ date: 2023-08-24T21:46:30+03:00
 draft: false
 tags: ["game", "unity", "Programming", "Projects"]
 categories: ["gaming"]
+cascade: 
+       showSummary: true
 ---
 Welcome to my blog post, where I'll take you on a deep dive into the development journey of my exciting 2D Maze Game. In this post, I'll share the inspiration behind the project, discuss the technologies and architecture I utilized, highlight key features, and delve into the challenges and learnings I encountered along the way. Let's embark on this immersive adventure!
 ![](image-resizing.gif)

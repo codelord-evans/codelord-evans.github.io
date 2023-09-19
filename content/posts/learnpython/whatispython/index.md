@@ -3,6 +3,7 @@ title: "Hello World| Python"
 date: 2023-09-18T01:56:09+03:00
 draft: false
 series: ["LearnPython"]
+series_order: 2
 cascade:
   showAuthor: false
 ---

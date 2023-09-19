@@ -7,6 +7,7 @@ cascade:
   showAuthor: false
   invertPagination: true
   showTableOfContents: false
+  showSummary: true
 ---
 
 {{< lead >}}

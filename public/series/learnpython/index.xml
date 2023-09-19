@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Muuo Codes</copyright>
-    <lastBuildDate>Mon, 18 Sep 2023 01:56:09 +0300</lastBuildDate><atom:link href="https://muuo.codes/series/learnpython/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Sep 2023 14:56:33 +0300</lastBuildDate><atom:link href="https://muuo.codes/series/learnpython/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Variables In Python</title>
+      <link>https://muuo.codes/posts/learnpython/variables/</link>
+      <pubDate>Mon, 18 Sep 2023 14:56:33 +0300</pubDate>
+      
+      <guid>https://muuo.codes/posts/learnpython/variables/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learnpython/variables/featured.png" />
+    </item>
+    
     <item>
       <title>Hello World| Python</title>
       <link>https://muuo.codes/posts/learnpython/whatispython/</link>

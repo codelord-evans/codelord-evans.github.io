@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MuuoCodes</title>
+    <link>https://muuo.codes/projects/</link>
+    <description>Recent content in Projects on MuuoCodes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Muuo Codes</copyright>
+    <atom:link href="https://muuo.codes/projects/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

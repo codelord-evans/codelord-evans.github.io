@@ -5,7 +5,38 @@
     
       <url>
             <loc>https://muuo.codes/posts/</loc>
-            <lastmod>2023-09-18T01:56:09+03:00</lastmod>
+            <lastmod>2023-09-18T14:56:33+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://muuo.codes/posts/learnpython/</loc>
+            <lastmod>2023-09-18T14:56:33+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://muuo.codes/</loc>
+            <lastmod>2023-09-18T14:56:33+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://muuo.codes/posts/learnpython/variables/</loc>
+            <lastmod>2023-09-18T14:56:33+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -18,28 +49,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
-    
-      <url>
-            <loc>https://muuo.codes/posts/learnpython/</loc>
-            <lastmod>2023-09-18T01:56:09+03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://muuo.codes/</loc>
-            <lastmod>2023-09-18T01:56:09+03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
     
   
     
@@ -100,6 +109,14 @@
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>https://muuo.codes/projects/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
 </urlset>

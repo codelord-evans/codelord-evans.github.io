@@ -131,7 +131,7 @@ disableImageOptimization = false
    identifier = "EvansMuuo"
    globalWidget = true
    globalWidgetMessage = "Hello"
-   globalWidgetColor = "#FFDD00"
+   globalWidgetColor = "#2F4F4F"
    globalWidgetPosition = "Right"
 
 [verification]
