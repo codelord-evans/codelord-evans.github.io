@@ -17,6 +17,8 @@ I am building the #1 online marketplace for you  to shop for outfits.
  `Secure P2P payments` to make sure you do not lose your hard earned money to scammers.
   A `pricing system` to make sure that products are not overpriced, and many more other features.
 
-If you would be the first one to try out these features join my [waitlist](http://localhost:1313/projects/).
+If you would be the first one to try out these features, 
 
-
+{{< button href="#button" target="http://localhost:1313/projects" >}}
+Join My Waitlist
+{{< /button >}}

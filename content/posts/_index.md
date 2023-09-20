@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Blogs"
 description: "Learn how to code and build systems that solve real world problems"
 
 cascade:
