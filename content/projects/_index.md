@@ -1,6 +1,6 @@
 ---
 title: "Projects I'm Working On"
-description: "Learn how to code and build systems that solve real world problems"
+description: "A list of projects that I am working to help solve some every day problems that people face."
 
 cascade:
   showEdit: false
