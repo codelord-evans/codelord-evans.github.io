@@ -7,12 +7,16 @@ series_order: 1
 cascade:
   showAuthor: false
   showSummary: true
+  showTableOfContents: true
 ---
+## What Can I Do With Python?
 
 Would you like to build sleek web applications or to automate some monotonous tasks? If the answer is  yes to any of those python is the perfect programming language for you to learn right now. The following couple of weeks I will be posting a  new blog everyday on this new series on how to master python programming.By the end of 8 weeks you will be a master python programmer.
 
-The best and fastest way to learn how to code is by coding, that is why before we beigin learning, it's good to have working python environments in your systems. I will quickly show you how to install python3 which is the latest release of python on all the major operating sysytems. `mac`, `linux`, and `windows`.
+## How To Learn Python Programming Fast 
+The best and fastest way to learn how to code is by coding, that is why before we beigin learning, it's good to have working python environments in your systems. Python3, which is the latest release of python is available for all the major operating sysytems. `mac`, `linux`, and `windows`.
 
+## Installation
 For `linux` users, you can use the following commands:
 ```console
 sudo apt update && sudo apt upgrade 
