@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Learn how to make te most out of this blog"
+description: "Welcome to MuuoCodes, the ultimate blog for Software Developers Tech Enthusiasts, and anyone who aspires to Excel in today's digital age."
 
 cascade:
   showDate: false
@@ -12,7 +12,7 @@ cascade:
 Learn how to code and gain problem solving skills that will help you become a better developer.
 {{< /lead >}}
 
-Are you passionate about code, creativity and collaboration? If yes, this blog is for you. I am a dedicated Software Engineer| Developer| Tech enthuthiast and  I have embarked on this journey to create a space where every programmer can find Inspiration, Solutions and Expert advice. 
+Are you passionate about code, creativity and collaboration? If yes, this blog is for you. I am a dedicated Software Engineer| Developer| Tech enthuthiast and  I have embarked on this journey to create a space where every programmer can find Inspir, Solutions and Expert advice. 
 
  {{< lead >}} ### You will get: {{< /lead >}}
   1. `In-Depth Tutorials`: For beginners looking to learn the basics, Experienced developers looking for clarifications.
