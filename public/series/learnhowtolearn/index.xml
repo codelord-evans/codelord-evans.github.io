@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LearnHowToLearn on MuuoCodes</title>
+    <link>https://muuo.codes/series/learnhowtolearn/</link>
+    <description>Recent content in LearnHowToLearn on MuuoCodes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Muuo Codes</copyright>
+    <lastBuildDate>Mon, 11 Dec 2023 23:50:04 -0800</lastBuildDate><atom:link href="https://muuo.codes/series/learnhowtolearn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>https://muuo.codes/posts/learn-how-to-learn/getting-started/</link>
+      <pubDate>Mon, 11 Dec 2023 23:50:04 -0800</pubDate>
+      
+      <guid>https://muuo.codes/posts/learn-how-to-learn/getting-started/</guid>
+      <description>Hello and enjoy your reading</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learn-how-to-learn/getting-started/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

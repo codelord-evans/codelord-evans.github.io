@@ -6,8 +6,18 @@
     <description>Recent content on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Muuo Codes</copyright>
-    <lastBuildDate>Mon, 18 Sep 2023 14:56:33 +0300</lastBuildDate><atom:link href="https://muuo.codes/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Muuo Codes</copyright>
+    <lastBuildDate>Mon, 11 Dec 2023 23:50:04 -0800</lastBuildDate><atom:link href="https://muuo.codes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>https://muuo.codes/posts/learn-how-to-learn/getting-started/</link>
+      <pubDate>Mon, 11 Dec 2023 23:50:04 -0800</pubDate>
+      
+      <guid>https://muuo.codes/posts/learn-how-to-learn/getting-started/</guid>
+      <description>Hello and enjoy your reading</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learn-how-to-learn/getting-started/featured.jpg" />
+    </item>
+    
     <item>
       <title>Variables In Python</title>
       <link>https://muuo.codes/posts/learnpython/variables/</link>
@@ -30,12 +40,22 @@
     
     <item>
       <title>A Beginner&#39;s Guide to Master Python Programming</title>
-      <link>https://muuo.codes/posts/learnpython/tutorial1/</link>
+      <link>https://muuo.codes/posts/learnpython/learn-python-fast/</link>
       <pubDate>Sun, 17 Sep 2023 23:40:07 +0300</pubDate>
       
-      <guid>https://muuo.codes/posts/learnpython/tutorial1/</guid>
-      <description>Would you like to build sleek web applications or to automate some monotonous tasks?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learnpython/tutorial1/featured.jpg" />
+      <guid>https://muuo.codes/posts/learnpython/learn-python-fast/</guid>
+      <description>What Can I Do With Python?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learnpython/learn-python-fast/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Acoustic Materials</title>
+      <link>https://muuo.codes/posts/acoustic-materials/</link>
+      <pubDate>Thu, 24 Aug 2023 21:46:30 +0300</pubDate>
+      
+      <guid>https://muuo.codes/posts/acoustic-materials/</guid>
+      <description>Home Theater Doors Chinese Factory Acoustic Double Soundproofing Acoustic Door Steel Door</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/acoustic-materials/featured.jpg" />
     </item>
     
     <item>
