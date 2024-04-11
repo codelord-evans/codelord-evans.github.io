@@ -8,14 +8,14 @@ title = "MuuoCodes"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "logo.png"
+  secondaryLogo = "logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Muuo Codes"
-   image = "evans.jpg"
+   image = "logo.png"
    headline = "`Hello World👋️` Simple blog by a programmer for programmers.   [`Start here`](https://muuo.codes/posts/)" 
    
    bio = "I am a python & C Developer who's enthuthiastic about ML & AI."
