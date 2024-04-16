@@ -75,11 +75,6 @@ pre = "github"
 url = "https://github.com/Muuocodes"
 weight = 60
 
-[[main]]
-pre = "linkedin"
-url = "https://www.linkedin.com/company/muuocodes/"
-weight = 60
-
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
