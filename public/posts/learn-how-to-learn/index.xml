@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn How To Learn. on MuuoCodes</title>
-    <link>https://muuo.codes/posts/learn-how-to-learn/</link>
+    <link>http://localhost:1313/posts/learn-how-to-learn/</link>
     <description>Recent content in Learn How To Learn. on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <lastBuildDate>Mon, 11 Dec 2023 23:50:04 -0800</lastBuildDate><atom:link href="https://muuo.codes/posts/learn-how-to-learn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 23:50:04 -0800</lastBuildDate><atom:link href="http://localhost:1313/posts/learn-how-to-learn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started</title>
-      <link>https://muuo.codes/posts/learn-how-to-learn/getting-started/</link>
+      <link>http://localhost:1313/posts/learn-how-to-learn/getting-started/</link>
       <pubDate>Mon, 11 Dec 2023 23:50:04 -0800</pubDate>
       
-      <guid>https://muuo.codes/posts/learn-how-to-learn/getting-started/</guid>
+      <guid>http://localhost:1313/posts/learn-how-to-learn/getting-started/</guid>
       <description>Hello and enjoy your reading</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learn-how-to-learn/getting-started/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/learn-how-to-learn/getting-started/featured.jpg" />
     </item>
     
   </channel>

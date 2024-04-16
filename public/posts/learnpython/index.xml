@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn Python on MuuoCodes</title>
-    <link>https://muuo.codes/posts/learnpython/</link>
+    <link>http://localhost:1313/posts/learnpython/</link>
     <description>Recent content in Learn Python on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <lastBuildDate>Mon, 18 Sep 2023 14:56:33 +0300</lastBuildDate><atom:link href="https://muuo.codes/posts/learnpython/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Sep 2023 14:56:33 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/learnpython/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Variables In Python</title>
-      <link>https://muuo.codes/posts/learnpython/variables/</link>
+      <link>http://localhost:1313/posts/learnpython/variables/</link>
       <pubDate>Mon, 18 Sep 2023 14:56:33 +0300</pubDate>
       
-      <guid>https://muuo.codes/posts/learnpython/variables/</guid>
+      <guid>http://localhost:1313/posts/learnpython/variables/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learnpython/variables/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/learnpython/variables/featured.png" />
     </item>
     
     <item>
       <title>Hello World| Python</title>
-      <link>https://muuo.codes/posts/learnpython/whatispython/</link>
+      <link>http://localhost:1313/posts/learnpython/whatispython/</link>
       <pubDate>Mon, 18 Sep 2023 01:56:09 +0300</pubDate>
       
-      <guid>https://muuo.codes/posts/learnpython/whatispython/</guid>
+      <guid>http://localhost:1313/posts/learnpython/whatispython/</guid>
       <description>A programming language is a formal language , meaning that it was made by human beings for specific purposes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learnpython/whatispython/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/learnpython/whatispython/featured.jpg" />
     </item>
     
     <item>
       <title>A Beginner&#39;s Guide to Master Python Programming</title>
-      <link>https://muuo.codes/posts/learnpython/learn-python-fast/</link>
+      <link>http://localhost:1313/posts/learnpython/learn-python-fast/</link>
       <pubDate>Sun, 17 Sep 2023 23:40:07 +0300</pubDate>
       
-      <guid>https://muuo.codes/posts/learnpython/learn-python-fast/</guid>
+      <guid>http://localhost:1313/posts/learnpython/learn-python-fast/</guid>
       <description>What Can I Do With Python?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/learnpython/learn-python-fast/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/learnpython/learn-python-fast/featured.jpg" />
     </item>
     
   </channel>

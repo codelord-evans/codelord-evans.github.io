@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MuuoCodes</title>
-    <link>https://muuo.codes/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <lastBuildDate>Thu, 24 Aug 2023 21:46:30 +0300</lastBuildDate><atom:link href="https://muuo.codes/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 23:50:04 -0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>gaming</title>
-      <link>https://muuo.codes/categories/gaming/</link>
-      <pubDate>Thu, 24 Aug 2023 21:46:30 +0300</pubDate>
+      <title>Learning</title>
+      <link>http://localhost:1313/categories/learning/</link>
+      <pubDate>Mon, 11 Dec 2023 23:50:04 -0800</pubDate>
       
-      <guid>https://muuo.codes/categories/gaming/</guid>
+      <guid>http://localhost:1313/categories/learning/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Learning</title>
-      <link>https://muuo.codes/categories/learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Gaming</title>
+      <link>http://localhost:1313/categories/gaming/</link>
+      <pubDate>Thu, 24 Aug 2023 21:46:30 +0300</pubDate>
       
-      <guid>https://muuo.codes/categories/learning/</guid>
+      <guid>http://localhost:1313/categories/gaming/</guid>
       <description></description>
       
     </item>

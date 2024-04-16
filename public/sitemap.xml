@@ -4,25 +4,7 @@
   
     
       <url>
-            <loc>https://muuo.codes/posts/</loc>
-            <lastmod>2023-12-11T23:50:04-08:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://muuo.codes/posts/learn-how-to-learn/getting-started/</loc>
-            <lastmod>2023-12-11T23:50:04-08:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://muuo.codes/posts/learn-how-to-learn/</loc>
+            <loc>http://localhost:1313/posts/</loc>
             <lastmod>2023-12-11T23:50:04-08:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -33,7 +15,7 @@
   
     
       <url>
-            <loc>https://muuo.codes/</loc>
+            <loc>http://localhost:1313/posts/learn-how-to-learn/getting-started/</loc>
             <lastmod>2023-12-11T23:50:04-08:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -43,8 +25,40 @@
     
   
     
+  
+    
       <url>
-            <loc>https://muuo.codes/posts/learnpython/</loc>
+            <loc>http://localhost:1313/posts/learn-how-to-learn/</loc>
+            <lastmod>2023-12-11T23:50:04-08:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2023-12-11T23:50:04-08:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/learnpython/</loc>
             <lastmod>2023-09-18T14:56:33+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -55,7 +69,7 @@
   
     
       <url>
-            <loc>https://muuo.codes/posts/learnpython/variables/</loc>
+            <loc>http://localhost:1313/posts/learnpython/variables/</loc>
             <lastmod>2023-09-18T14:56:33+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -64,7 +78,7 @@
   
     
       <url>
-            <loc>https://muuo.codes/posts/learnpython/whatispython/</loc>
+            <loc>http://localhost:1313/posts/learnpython/whatispython/</loc>
             <lastmod>2023-09-18T01:56:09+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -73,7 +87,7 @@
   
     
       <url>
-            <loc>https://muuo.codes/posts/learnpython/learn-python-fast/</loc>
+            <loc>http://localhost:1313/posts/learnpython/learn-python-fast/</loc>
             <lastmod>2023-09-17T23:40:07+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -81,8 +95,12 @@
     
   
     
+  
+    
+  
+    
       <url>
-            <loc>https://muuo.codes/posts/acoustic-materials/</loc>
+            <loc>http://localhost:1313/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/</loc>
             <lastmod>2023-08-24T21:46:30+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -97,24 +115,7 @@
   
     
       <url>
-            <loc>https://muuo.codes/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/</loc>
-            <lastmod>2023-08-24T21:46:30+03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://muuo.codes/videos/howtoinstalllinuxonvb/</loc>
+            <loc>http://localhost:1313/videos/howtoinstalllinuxonvb/</loc>
             <lastmod>2020-11-06T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -123,7 +124,7 @@
   
     
       <url>
-            <loc>https://muuo.codes/videos/</loc>
+            <loc>http://localhost:1313/videos/</loc>
             <lastmod>2020-11-06T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -132,30 +133,20 @@
   
     
       <url>
-            <loc>https://muuo.codes/about/</loc>
+            <loc>http://localhost:1313/about/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
-    
-  
-    
-  
-    
-  
     
   
     
   
     
       <url>
-            <loc>https://muuo.codes/projects/</loc>
+            <loc>http://localhost:1313/projects/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
 </urlset>

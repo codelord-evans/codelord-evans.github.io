@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on MuuoCodes</title>
-    <link>https://muuo.codes/categories/learning/</link>
+    <link>http://localhost:1313/categories/learning/</link>
     <description>Recent content in Learning on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <atom:link href="https://muuo.codes/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 23:50:04 -0800</lastBuildDate><atom:link href="http://localhost:1313/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learn How To Learn.</title>
-      <link>https://muuo.codes/posts/learn-how-to-learn/</link>
+      <link>http://localhost:1313/posts/learn-how-to-learn/</link>
       <pubDate>Mon, 11 Dec 2023 23:50:04 -0800</pubDate>
       
-      <guid>https://muuo.codes/posts/learn-how-to-learn/</guid>
+      <guid>http://localhost:1313/posts/learn-how-to-learn/</guid>
       <description>Learning How To Learn Is The Most Important Skill Anyone Can Master In The 21st Century.</description>
       
     </item>
