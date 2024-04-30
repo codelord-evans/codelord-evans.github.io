@@ -46,35 +46,147 @@ Actively engaged in promoting academic excellence and fostering a supportive lea
 Leveraged strong communication and leadership skills to facilitate global dialogue and cooperation on critical issues, contributing to meaningful diplomatic efforts.
 
 ## Projects
-### Project 1: KIOTA
+
 <!-- - Brief description of the project.
 - Technologies used.
 - Your role and contributions.
 - Results or impact of the project. -->
+### Project 1:[ KIOTA](https://www.mykiota.com)
+#### Overview
+In the journey of building a scalable fintech solution aimed at enhancing retirement planning for employees, Kiota was conceived. This documentation encapsulates the project's evolution, outlining specific requirements and proposing an architecture to realize the system's vision. Kiota aims to streamline pension services for employers, third-party administrators, and savers alike.
 
-### Project 2: PAYBUDDY
+#### Features
+The system boasts several key features tailored to different user roles:
+
+    Authentication: Secure access for super admin (Kiota), savers, employers, and third-party administrators.
+    Dashboards: Customized dashboards offering pertinent information for each user category.
+    Saver Dashboard: Personal details, contribution statements, retirement projections, and more.
+    Employer Dashboard: Plan details, staff metrics, contribution tracking, and company insights.
+    Third-Party Administrator (TPA) Dashboard: Company overview, onboarding tools, and management features.
+    
+#### Technologies Used
+    Frontend: React JavaScript
+    Backend: PostgreSQL, AWS, Google Cloud
+    Other Tools: MongoDB (for non-relational database needs)
+
+#### Role and Contributions
+As the CTO of Kiota, my responsibilities encompassed:
+
+  1. Architecting the system to ensure scalability, security, and efficiency.
+Overseeing the implementation of best practices in coding, database design, and security protocols.
+  2. Collaborating with the development team to align technical solutions with project requirements.
+  3. Ensuring seamless integration of various technologies to deliver a cohesive user experience.
+
+#### Results or Impact
+  Kiota emerged as a robust fintech solution, empowering employers and savers with intuitive tools for retirement planning. The system's user-centric design and secure infrastructure garnered positive feedback, driving adoption rates and fostering financial well-being among users. Kiota's success underscored the transformative potential of technology in revolutionizing pension services, paving the way for future innovations in the field.
+
+### Project 2: [PAYBUDDY](https://github.com/Muuocodes/payapi)
 <!-- - Repeat -->
 
 ## Skills
 <!-- - List your technical skills, programming languages, frameworks, tools, etc.
 - Optionally, rate your proficiency level for each skill. -->
 
+#### Programming Languages
+- **Python:** Proficient
+- **Java:** Proficient
+- **C++:** Proficient
+- **R:** Proficient
+
+#### Machine Learning Frameworks
+- **TensorFlow:** Proficient
+- **PyTorch:** Proficient
+- **Scikit-learn:** Proficient
+- **Keras:** Proficient
+
+#### Deep Learning Frameworks
+- **TensorFlow:** Proficient
+- **PyTorch:** Proficient
+- **Keras:** Proficient
+
+#### Natural Language Processing (NLP) Libraries
+- **NLTK:** Proficient
+- **spaCy:** Proficient
+- **Gensim:** Proficient
+
+#### Computer Vision Frameworks
+- **OpenCV:** Proficient
+- **TensorFlow:** Proficient
+- **PyTorch:** Proficient
+
+#### Data Analysis and Visualization
+- **Pandas:** Proficient
+- **NumPy:** Proficient
+- **Matplotlib:** Proficient
+- **Seaborn:** Proficient
+
+#### Cloud Computing Platforms
+- **Amazon Web Services (AWS):** Proficient
+- **Google Cloud Platform (GCP):** Proficient
+- **Microsoft Azure:** Intermediate
+
+#### Database Management Systems
+- **SQL:** Proficient
+- **MongoDB:** Proficient
+- **PostgreSQL:** Proficient
+- **SQLite:** Proficient
+
+#### Development Tools
+- **Git:** Proficient
+- **Docker:** Proficient
+- **Jupyter Notebooks:** Proficient
+- **Visual Studio Code:** Proficient
+
+#### Other Skills
+- **Reinforcement Learning:** Proficient
+- **Time Series Analysis:** Intermediate
+- **Transfer Learning:** Intermediate
+- **Model Deployment:** Intermediate
+
+
 ## What People Say About Me
 <!-- - Include any recommendations or testimonials from colleagues, supervisors, or clients if available. -->
+
+### Joseph Kammata, Senior IT officer at KUTRRH.
+"Working with Evans has been an absolute pleasure. Their deep understanding of AI coupled with their strong problem-solving skills have consistently impressed our team. [Your Name] has a knack for diving into complex challenges and delivering elegant solutions that exceed expectations."
+
+### Sam Opar, CEO of [MuuoCodes](https://muuo.codes).
+"Evans is an invaluable asset to any project or team. Their dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
+
+### Ali Ali, CEO of [KIOTA](https://www.mykiota.com).
+"Evans is an invaluable asset to any project or team. Their dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
+
+<!-- ### MuuoCodes
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida arcu at ante ultricies, sed vulputate ex vehicula. Nulla facilisi. Praesent ac elit sit amet odio ullamcorper sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed vel erat vel ante maximus fermentum." -->
+
 
 ## Personal Touch
 <!-- - Share a bit about your personality, hobbies, or interests outside of work.
 - This helps to humanize your portfolio and make a personal connection with the reader. -->
+{{< lead >}}
+As much as I thrive in the world of technology, I also find joy in exploring diverse interests beyond the confines of code. You might find me lost in the pages of a gripping novel, immersing myself in the rich tapestry of storytelling. I have a passion for photography, capturing moments frozen in time that evoke emotion and spark imagination. When the opportunity arises, I enjoy embarking on outdoor adventures, whether it's hiking through rugged trails or basking in the serenity of nature. Ultimately, it's the balance between my love for technology and these enriching experiences that fuels my creativity and drives me to make a meaningful impact in both professional and personal spheres.
+{{< /lead >}}
+
 
 ## Contact Information
 <!-- - Provide ways to contact you, such as email, LinkedIn profile, or portfolio website. -->
+Feel free to reach out to me through any of the following channels:
+
+- **Email:** [evans@muuo.codes](mailto:your.email@example.com)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/evansmuuo/)
+- **GitHub:** [My Profile](https://github.com/codelord-evans)
+- **Portfolio Website:** [Evans Muuo Portfolio Website](https://www.muuo.codes/portfolio)
 
 ## Conclusion
 <!-- - Thank the reader for visiting your portfolio and express your enthusiasm for future opportunities. -->
+Thank you for taking the time to explore my portfolio. I hope you gained insight into my skills, experiences, and passion for software development. I'm excited about the possibility of collaborating on future projects and opportunities!
 
 ## Updates
 <!-- - Mention that your portfolio is regularly updated with new projects and achievements. -->
+My portfolio is regularly updated with new projects and achievements, reflecting my ongoing growth and development as a software developer. Be sure to check back periodically for the latest updates and innovations.
 
-<!-- ## Acknowledgment
-- (Optional) Acknowledge any tools or frameworks used to create your portfolio. -->
+## Acknowledgment
+<!-- - (Optional) Acknowledge any tools or frameworks used to create your portfolio. -->
+I would like to acknowledge the tools and frameworks that contributed to the creation of this portfolio, including Markdown for formatting, GitHub Pages for hosting, and any other technologies that helped bring this showcase to life.
+
 
