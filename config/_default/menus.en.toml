@@ -65,9 +65,9 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
-  url = "/projects/"
+  name = "Portfolio"
+  pageRef = "portfolio"
+  url = "/portfolio/"
   weight = 50
   
 [[main]]

@@ -73,7 +73,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/projects/</loc>
+            <loc>http://localhost:1313/portfolio/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
