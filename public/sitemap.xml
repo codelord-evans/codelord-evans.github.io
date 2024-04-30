@@ -5,93 +5,12 @@
     
       <url>
             <loc>http://localhost:1313/posts/</loc>
-            <lastmod>2023-12-11T23:50:04-08:00</lastmod>
+            <lastmod>2023-08-24T21:46:30+03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
     
   
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/posts/learn-how-to-learn/getting-started/</loc>
-            <lastmod>2023-12-11T23:50:04-08:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/posts/learn-how-to-learn/</loc>
-            <lastmod>2023-12-11T23:50:04-08:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/</loc>
-            <lastmod>2023-12-11T23:50:04-08:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/posts/learnpython/</loc>
-            <lastmod>2023-09-18T14:56:33+03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/posts/learnpython/variables/</loc>
-            <lastmod>2023-09-18T14:56:33+03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/posts/learnpython/whatispython/</loc>
-            <lastmod>2023-09-18T01:56:09+03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/posts/learnpython/learn-python-fast/</loc>
-            <lastmod>2023-09-17T23:40:07+03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
     
   
     
@@ -105,6 +24,17 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2023-08-24T21:46:30+03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
     
   
     
@@ -147,6 +77,8 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
     
   
 </urlset>
