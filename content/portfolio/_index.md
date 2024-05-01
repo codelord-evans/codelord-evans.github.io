@@ -170,7 +170,7 @@ Overseeing the implementation of best practices in coding, database design, and 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida arcu at ante ultricies, sed vulputate ex vehicula. Nulla facilisi. Praesent ac elit sit amet odio ullamcorper sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed vel erat vel ante maximus fermentum." -->
 
 
-## Personal Touch
+## Fun Facts
 <!-- - Share a bit about your personality, hobbies, or interests outside of work.
 - This helps to humanize your portfolio and make a personal connection with the reader. -->
 {{< lead >}}
