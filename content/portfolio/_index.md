@@ -158,13 +158,13 @@ Overseeing the implementation of best practices in coding, database design, and 
 <!-- - Include any recommendations or testimonials from colleagues, supervisors, or clients if available. -->
 
 ### Joseph Kammata, Senior IT officer at KUTRRH.
-"Working with Evans has been an absolute pleasure. His deep understanding of AI coupled with strong problem-solving skills have consistently impressed our team. Evans has a knack for diving into complex challenges and delivering elegant solutions that exceed expectations."
+`"Working with Evans has been an absolute pleasure. His deep understanding of AI coupled with strong problem-solving skills have consistently impressed our team. Evans has a knack for diving into complex challenges and delivering elegant solutions that exceed expectations."`
 
 ### `Anonymous` @ [MuuoCodes](https://muuo.codes).
-"Evans is an invaluable asset to any project or team. His dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
+`"Evans is an invaluable asset to any project or team. His dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."`
 
 ### Ali Ali, CEO of [KIOTA](https://www.mykiota.com).
-"Evans is an invaluable asset to any project or team. His dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
+`"Evans is an invaluable asset to any project or team. His dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."`
 
 <!-- ### MuuoCodes
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida arcu at ante ultricies, sed vulputate ex vehicula. Nulla facilisi. Praesent ac elit sit amet odio ullamcorper sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed vel erat vel ante maximus fermentum." -->
