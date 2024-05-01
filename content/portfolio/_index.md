@@ -1,6 +1,6 @@
 ---
 title: "Evans Muuo Kioko - Portfolio."
-description: "A list of projects that I am working to help solve some every day problems that people face."
+description: "Everything there is about me. Childhood, Education, Profession and Mission."
 
 cascade:
   showEdit: false
@@ -9,20 +9,26 @@ cascade:
   showTableOfContents: false 
 ---
 {{< lead >}}
+Hello there my name is Evans Muuo Kioko. I am a `Software developer` with a burning desire for `entrepreneuship`. I am from Nairobi Kenya.
 I find my home in the wide world 🌐 of digital innovation, propelled by an unwavering passion for software development with Artificial Intelligence that permeates every code I write. My first curiosity about the skill of creating solutions from the ethereal world of ones and zeros developed into a steadfast dedication during my formative years. It involves more than just creating programs; it involves giving pixels and algorithms life and molding aspirations into reality. The infinite opportunities in this always changing area entice me, and every obstacle feels like a siren's song, kindling my inner fire to push boundaries and redefine what is possible. Here, where imagination soars via code and creativity and logic collide, I discover my `raison d'être.`
 {{< /lead >}}
 
 ## Professional Journey
 ### Education
 My professional journey is anchored by a commitment to continuous learning and academic excellence.
-#### `University of the People, BSc. Computer Science 28th sept 2021 - 30th Nov 2025.`
+#### `University of the People, BSc. Computer Science 28th sept 2021 - 30th Nov 2025.` - Ongoing
 At present, I am actively pursuing a degree in Computer Science at the University of the People, immersing myself in the dynamic realm of algorithms, data structures, and software engineering principles. 
 
-#### `African Leardeship X (ALX), Certificate Software Engineering. June,2022-Jan,2024.`
-Prior to this, I fortified my skill set with a Software Engineering certificate from ALX, where I honed my abilities in crafting robust, scalable solutions. 
+#### `WorldQUant University`- Ongoing
+I am actively learning about DS and how I can apply the knowledge I acquire in building better solutions for humans.
 
-#### `African Leardeship X (ALX), Certificate Artificial Intelligence. Feb, 2024-Apr, 2024.`
+#### `African Leardeship X (ALX), Certificate Software Engineering. June,2022-Jan,2024.` - Completed
+Prior to this, I fortified my skill set with a Software Engineering certificate from ALX, where I honed my abilities in crafting robust, scalable solutions. 
+![](swe.png "Evan's Software Engineering, with a specialization in Back-End Software Development Certificate.")
+
+#### `African Leardeship X (ALX), Certificate Artificial Intelligence. Feb, 2024-Apr, 2024.`-Completed
 Additionally, my journey into the cutting-edge domain of Artificial Intelligence was further enriched by an AI certificate from ALX, empowering me with the expertise to navigate the complexities of machine learning and neural networks. These educational milestones serve as pillars of knowledge, shaping my trajectory as a software developer and fueling my drive for innovation in the digital landscape.
+![](ai.png  "Evan's Artificial Intelligence, with focus on professional ettiquet, and personal development Certificate.")
 
 ### Work Experience
 
@@ -32,12 +38,14 @@ Additionally, my journey into the cutting-edge domain of Artificial Intelligence
   3.Ensured the quality and timely completion of projects, overseeing the entire development lifecycle from conception to deployment.
 
 #### `Technical Writer at MuuoCodes`
+![](muuocodeslogo.png "MuuoCodes Logo.")
   1. Utilized my software engineering background to craft comprehensive technical documentation, enhancing the accessibility and usability of MuuoCodes' products.
   2. Communicated complex technical concepts in clear, concise language, facilitating seamless understanding for end-users and stakeholders.
 
 #### `Fellow at The Room`
-Contributed to the development of impactful web and mobile applications aimed at driving social change and community empowerment.
-Collaborated closely with cross-functional teams to design and implement robust software solutions aligned with project objectives and user needs.
+![](theroom.jpg "Invitation to The Room Portal!")
+  1. Contributed to the development of impactful web and mobile applications aimed at driving social change and community empowerment.
+  2. Collaborated closely with cross-functional teams to design and implement robust software solutions aligned with project objectives and user needs.
 
 ### Additional Roles and Contributions
 #### `Ambassador and Mentor at University of the People:` 
@@ -150,7 +158,7 @@ Overseeing the implementation of best practices in coding, database design, and 
 ### Joseph Kammata, Senior IT officer at KUTRRH.
 "Working with Evans has been an absolute pleasure. Their deep understanding of AI coupled with their strong problem-solving skills have consistently impressed our team. [Your Name] has a knack for diving into complex challenges and delivering elegant solutions that exceed expectations."
 
-### Sam Opar, CEO of [MuuoCodes](https://muuo.codes).
+### `Anonymous` @ [MuuoCodes](https://muuo.codes).
 "Evans is an invaluable asset to any project or team. Their dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
 
 ### Ali Ali, CEO of [KIOTA](https://www.mykiota.com).
