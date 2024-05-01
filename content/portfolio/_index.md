@@ -17,29 +17,29 @@ I find my home in the wide world 🌐 of digital innovation, propelled by an unw
 ## Professional Journey
 ### Education
 My professional journey is anchored by a commitment to continuous learning and academic excellence.
-#### `University of the People, BSc. Computer Science 28th sept 2021 - 30th Nov 2025.` - Ongoing
+#### `University of the People,`[UoPeople](https://www.uopeople.edu/) `BSc. Computer Science 28th sept 2021 - 30th Nov 2025.` - Ongoing
 At present, I am actively pursuing a degree in Computer Science at the University of the People, immersing myself in the dynamic realm of algorithms, data structures, and software engineering principles. 
 
 #### `WorldQUant University`- Ongoing
 I am actively learning about DS and how I can apply the knowledge I acquire in building better solutions for humans.
 
-#### `African Leardeship X (ALX), Certificate Software Engineering. June,2022-Jan,2024.` - Completed
+#### `African Leardeship X`[ (ALX)](https://www.alxafrica.com/)`, Certificate Software Engineering. June,2022-Jan,2024.` - Completed
 Prior to this, I fortified my skill set with a Software Engineering certificate from ALX, where I honed my abilities in crafting robust, scalable solutions. 
 ![](swe.png "Evan's Software Engineering, with a specialization in Back-End Software Development Certificate.")
 
-#### `African Leardeship X (ALX), Certificate Artificial Intelligence. Feb, 2024-Apr, 2024.`-Completed
+#### `African Leardeship X`[ (ALX)](https://www.alxafrica.com/)`, Certificate Artificial Intelligence. Feb, 2024-Apr, 2024.`-Completed
 Additionally, my journey into the cutting-edge domain of Artificial Intelligence was further enriched by an AI certificate from ALX, empowering me with the expertise to navigate the complexities of machine learning and neural networks. These educational milestones serve as pillars of knowledge, shaping my trajectory as a software developer and fueling my drive for innovation in the digital landscape.
 ![](ai.png  "Evan's Artificial Intelligence, with focus on professional ettiquet, and personal development Certificate.")
 
 ### Work Experience
 
-#### `Chief Technology Officer (CTO) at Kiota`
+#### `Chief Technology Officer (CTO) at` [ `Kiota`](https://www.mykiota.com)
 ![](kiota-logo-1@2x.png "Kiota - Putting you on a Path towards Financial Health.")
   1. Spearheaded innovative software solutions, leveraging cutting-edge technology to drive business growth and efficiency at Kiota.
   2. Managed and mentored a talented team of developers, fostering collaboration and excellence in project delivery.
   3.Ensured the quality and timely completion of projects, overseeing the entire development lifecycle from conception to deployment.
 
-#### `Technical Writer at MuuoCodes`
+#### `Technical Writer at`  [`MuuoCodes`](https://www.muuo.codes)
 ![](muuocodeslogo.png "MuuoCodes Logo.")
   1. Utilized my software engineering background to craft comprehensive technical documentation, enhancing the accessibility and usability of MuuoCodes' products.
   2. Communicated complex technical concepts in clear, concise language, facilitating seamless understanding for end-users and stakeholders.
