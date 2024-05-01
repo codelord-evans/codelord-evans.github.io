@@ -9,7 +9,7 @@ cascade:
   showTableOfContents: false 
 ---
 {{< lead >}}
-![](evansmuuokioko.png "A Picture of ENG. Evans Muuo Kioko.")
+![](evansmuuokioko.png1 "A Picture of ENG. Evans Muuo Kioko.")
 Hello there my name is Evans Muuo Kioko. I am a `Software developer` with a burning desire for `entrepreneuship`. I am from Nairobi Kenya.
 I find my home in the wide world 🌐 of digital innovation, propelled by an unwavering passion for software development with Artificial Intelligence that permeates every code I write. My first curiosity about the skill of creating solutions from the ethereal world of ones and zeros developed into a steadfast dedication during my formative years. It involves more than just creating programs; it involves giving pixels and algorithms life and molding aspirations into reality. The infinite opportunities in this always changing area entice me, and every obstacle feels like a siren's song, kindling my inner fire to push boundaries and redefine what is possible. Here, where imagination soars via code and creativity and logic collide, I discover my `raison d'être.`
 {{< /lead >}}
@@ -158,13 +158,13 @@ Overseeing the implementation of best practices in coding, database design, and 
 <!-- - Include any recommendations or testimonials from colleagues, supervisors, or clients if available. -->
 
 ### Joseph Kammata, Senior IT officer at KUTRRH.
-"Working with Evans has been an absolute pleasure. Their deep understanding of AI coupled with their strong problem-solving skills have consistently impressed our team. [Your Name] has a knack for diving into complex challenges and delivering elegant solutions that exceed expectations."
+"Working with Evans has been an absolute pleasure. His deep understanding of AI coupled with strong problem-solving skills have consistently impressed our team. Evans has a knack for diving into complex challenges and delivering elegant solutions that exceed expectations."
 
 ### `Anonymous` @ [MuuoCodes](https://muuo.codes).
-"Evans is an invaluable asset to any project or team. Their dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
+"Evans is an invaluable asset to any project or team. His dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
 
 ### Ali Ali, CEO of [KIOTA](https://www.mykiota.com).
-"Evans is an invaluable asset to any project or team. Their dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
+"Evans is an invaluable asset to any project or team. His dedication to excellence, coupled with their collaborative spirit, makes them a standout performer. I have no hesitation in recommending Evans for any role requiring expertise in software development and AI."
 
 <!-- ### MuuoCodes
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida arcu at ante ultricies, sed vulputate ex vehicula. Nulla facilisi. Praesent ac elit sit amet odio ullamcorper sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed vel erat vel ante maximus fermentum." -->
