@@ -9,6 +9,7 @@ cascade:
   showTableOfContents: false 
 ---
 {{< lead >}}
+![](evansmuuokioko.png "A Picture of ENG. Evans Muuo Kioko.")
 Hello there my name is Evans Muuo Kioko. I am a `Software developer` with a burning desire for `entrepreneuship`. I am from Nairobi Kenya.
 I find my home in the wide world 🌐 of digital innovation, propelled by an unwavering passion for software development with Artificial Intelligence that permeates every code I write. My first curiosity about the skill of creating solutions from the ethereal world of ones and zeros developed into a steadfast dedication during my formative years. It involves more than just creating programs; it involves giving pixels and algorithms life and molding aspirations into reality. The infinite opportunities in this always changing area entice me, and every obstacle feels like a siren's song, kindling my inner fire to push boundaries and redefine what is possible. Here, where imagination soars via code and creativity and logic collide, I discover my `raison d'être.`
 {{< /lead >}}
