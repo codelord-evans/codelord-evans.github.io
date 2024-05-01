@@ -33,6 +33,7 @@ Additionally, my journey into the cutting-edge domain of Artificial Intelligence
 ### Work Experience
 
 #### `Chief Technology Officer (CTO) at Kiota`
+![](kiota-logo-1@2x.png "Kiota - Putting you on a Path towards Financial Health.")
   1. Spearheaded innovative software solutions, leveraging cutting-edge technology to drive business growth and efficiency at Kiota.
   2. Managed and mentored a talented team of developers, fostering collaboration and excellence in project delivery.
   3.Ensured the quality and timely completion of projects, overseeing the entire development lifecycle from conception to deployment.
