@@ -14,7 +14,7 @@ Before we begin, make sure that your Windows 10 system meets the following requi
 
 ## Step 1: Enable the WSL Feature
 Open the Start menu and search for "Turn Windows features on or off."
-![](enable.png)
+![](enable.png) 
  Click on the result to open the Windows Features dialog box. Scroll down and check the box next to "Windows Subsystem for Linux," then click "OK" to apply the changes. Your system may prompt you to restart your computer to complete the installation.
 
 ## Step 2: Install a Linux Distribution
