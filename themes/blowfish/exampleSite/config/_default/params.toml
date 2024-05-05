@@ -16,16 +16,17 @@ mainSections = ["docs"]
 # robots = ""
 
 disableImageOptimization = false
+disableTextInHeader = false
 
-defaultBackgroundImage = "/img/ocean.jpg"
-defaultFeaturedImage = "/img/ocean.jpg"
+defaultBackgroundImage = "/img/background.svg"
+defaultFeaturedImage = "/img/featured.svg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
-smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = false
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -38,10 +39,10 @@ smartTOCHideUnfocusedChildren = true
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
-  showRecentItems = 12
+  showRecentItems = 6
   showMoreLink = true
   showMoreLinkDest = "docs"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
@@ -49,8 +50,10 @@ smartTOCHideUnfocusedChildren = true
   showDate = false
   showViews = true
   showLikes = true
+  showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
+  # showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
@@ -70,8 +73,8 @@ smartTOCHideUnfocusedChildren = true
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = false
-  showSummary = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  showZenMode = true
 
 [list]
   showHero = true
@@ -90,7 +93,7 @@ smartTOCHideUnfocusedChildren = true
   constrainItemsWidth = false
 
 [sitemap]
-  excludedKinds = ["taxonomy","term"]
+  excludedKinds = []
 
 [taxonomy]
   showTermCount = true
@@ -124,6 +127,10 @@ smartTOCHideUnfocusedChildren = true
 
 [fathomAnalytics]
   # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[umamiAnalytics]
+  # websiteid = "ABC12345"
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]

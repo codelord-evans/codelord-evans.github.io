@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <lastBuildDate>Thu, 24 Aug 2023 21:46:30 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 May 2024 21:47:04 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install WSL Ubuntu(Latest Version) on Windows 10</title>
+      <link>http://localhost:1313/posts/how-to-install_wsl----ubuntu/</link>
+      <pubDate>Sun, 05 May 2024 21:47:04 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/how-to-install_wsl----ubuntu/</guid>
+      <description>Step By Step Guide The Windows Subsystem for Linux (WSL) is a powerful feature that allows you to run a Linux distribution directly on your Windows 10 machine.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-to-install_wsl----ubuntu/featured.png" />
+    </item>
+    
     <item>
       <title>How I Built a 3D Game Using Unity and C Programming Language</title>
       <link>http://localhost:1313/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/</link>
