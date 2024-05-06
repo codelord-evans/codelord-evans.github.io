@@ -19,7 +19,7 @@ Open the Start menu and search for "Turn Windows features on or off."
 
 ## Step 2: Install a Linux Distribution
 After the restart, open the Microsoft Store and search for your preferred Linux distribution. Popular options include Ubuntu, Debian, Kali Linux, and openSUSE. For this guide, we'll use Ubuntu as an example. 
-![](wsl.gif)
+<!-- ![](wsl.gif) -->
 
 Find the "Ubuntu" app in the search results and click "Install" to download and install it on your system.
 
