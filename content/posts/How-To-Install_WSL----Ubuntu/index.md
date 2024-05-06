@@ -18,7 +18,7 @@ Open the Start menu and search for "Turn Windows features on or off."
  Click on the result to open the Windows Features dialog box. Scroll down and check the box next to "Windows Subsystem for Linux," then click "OK" to apply the changes. Your system may prompt you to restart your computer to complete the installation.
 
 ## Step 2: Install a Linux Distribution
-After the restart, open the Microsoft Store and search for your preferred Linux distribution. Popular options include Ubuntu, Debian, Kali Linux, and openSUSE. For this guide, we'll use Ubuntu as an example.
+After the restart, open the Microsoft Store and search for your preferred Linux distribution. Popular options include Ubuntu, Debian, Kali Linux, and openSUSE. For this guide, we'll use Ubuntu as an example. 
 ![](wsl.gif)
 
 Find the "Ubuntu" app in the search results and click "Install" to download and install it on your system.
