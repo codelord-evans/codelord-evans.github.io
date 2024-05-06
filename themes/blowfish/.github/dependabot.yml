@@ -7,8 +7,7 @@ updates:
     directory: "/"
     target-branch: "dev"
     schedule:
-      interval: "weekly"
-      day: "wednesday"
+      interval: "daily"
     commit-message:
       prefix: "📌"
     labels:
@@ -18,7 +17,7 @@ updates:
     target-branch: "dev"
     schedule:
       interval: "weekly"
-      day: "wednesday"
+      day: "sunday"
     commit-message:
       prefix: "👷"
     labels:

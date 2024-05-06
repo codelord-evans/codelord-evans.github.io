@@ -1,6 +1,6 @@
 ---
 title: "Thumbnails"
-date: 2020-08-10
+date: 2020-08-12
 draft: false
 description: "Turn on thumbnails for your articles."
 slug: "thumbnails"
@@ -31,14 +31,13 @@ content
 └── awesome_article.md
 ```
 
-You need to change it from a single Markdown file into a folder. Create a directory with the same name of the article, inside create a `index.md` file. You'll get a structure similar to what's below. 
+You need to change it from a single markdown file into a folder. Create a directory with the same name of the article, inside create a `index.md` file. You'll get a structure similar to what's below. 
 
 ```shell
 content
 └── awesome_article
-    └── index.md
+    └── featured.png
 ```
-
 Then you just need to add an image like explained earlier. If you want to see a sample of this, you can consult [this sample]({{< ref "thumbnail_sample" >}}).
 
 ## Hero Images
