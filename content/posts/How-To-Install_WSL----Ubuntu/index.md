@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "How to Install WSL Ubuntu(Latest Version) on Windows 10"
 date: 2024-05-05T21:47:04+03:00
 draft: false
@@ -44,4 +44,4 @@ Here are a few examples of what you can do with WSL:
 - Ubuntu on the Microsoft Store: https://www.microsoft.com/store/apps/9nblggh4msv6
 - Other Linux distributions on the Microsoft Store: https://aka.ms/wslstore
 
-Note: The links provided are current and working as of May 2024. However, it's always a good idea to check Microsoft's official documentation and the Microsoft Store for the latest updates and information. -->
+Note: The links provided are current and working as of May 2024. However, it's always a good idea to check Microsoft's official documentation and the Microsoft Store for the latest updates and information.
