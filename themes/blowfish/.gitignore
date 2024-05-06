@@ -1,3 +1,8 @@
+# Hugo and Blowfish
+public/
+resources/
+exampleSite/resources/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -24,3 +29,6 @@ node_modules
 ._*
 .Spotlight-V100
 .Trashes
+.idea
+.Ulysses-Group.plist
+.Ulysses-Settings.plist
