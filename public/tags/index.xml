@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MuuoCodes</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://muuo.codes/tags/</link>
     <description>Recent content in Tags on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <lastBuildDate>Thu, 24 Aug 2023 21:46:30 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 21:46:30 +0300</lastBuildDate><atom:link href="https://muuo.codes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game</title>
-      <link>http://localhost:1313/tags/game/</link>
+      <link>https://muuo.codes/tags/game/</link>
       <pubDate>Thu, 24 Aug 2023 21:46:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/game/</guid>
+      <guid>https://muuo.codes/tags/game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
+      <link>https://muuo.codes/tags/programming/</link>
       <pubDate>Thu, 24 Aug 2023 21:46:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/programming/</guid>
+      <guid>https://muuo.codes/tags/programming/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/tags/projects/</link>
+      <link>https://muuo.codes/tags/projects/</link>
       <pubDate>Thu, 24 Aug 2023 21:46:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/projects/</guid>
+      <guid>https://muuo.codes/tags/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unity</title>
-      <link>http://localhost:1313/tags/unity/</link>
+      <link>https://muuo.codes/tags/unity/</link>
       <pubDate>Thu, 24 Aug 2023 21:46:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/unity/</guid>
+      <guid>https://muuo.codes/tags/unity/</guid>
       <description></description>
       
     </item>

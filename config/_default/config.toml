@@ -6,6 +6,11 @@
  baseURL = "https://muuo.codes/"
 defaultContentLanguage = "en"
 
+# Timeout
+[template]
+timeout = "60s" # Change the value as needed, e.g., "60s" for 60 seconds
+
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true

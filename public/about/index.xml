@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on MuuoCodes</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://muuo.codes/about/</link>
     <description>Recent content in About on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://muuo.codes/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on MuuoCodes</title>
-    <link>http://localhost:1313/tags/game/</link>
+    <link>https://muuo.codes/tags/game/</link>
     <description>Recent content in Game on MuuoCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <lastBuildDate>Thu, 24 Aug 2023 21:46:30 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 21:46:30 +0300</lastBuildDate><atom:link href="https://muuo.codes/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Built a 3D Game Using Unity and C Programming Language</title>
-      <link>http://localhost:1313/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/</link>
+      <link>https://muuo.codes/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/</link>
       <pubDate>Thu, 24 Aug 2023 21:46:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/</guid>
-      <description>Welcome to my blog post, where I&amp;rsquo;ll take you on a deep dive into the development journey of my exciting 2D Maze Game.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/featured.png" />
+      <guid>https://muuo.codes/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/</guid>
+      <description>Welcome to my blog post, where I&amp;rsquo;ll take you on a deep dive into the development journey of my exciting 2D Maze Game. In this post, I&amp;rsquo;ll share the inspiration behind the project, discuss the technologies and architecture I utilized, highlight key features, and delve into the challenges and learnings I encountered along the way. Let&amp;rsquo;s embark on this immersive adventure! The Purpose of the Project. The purpose of my project was to create an engaging and challenging 2D maze game that tests players&amp;rsquo; problem-solving skills.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muuo.codes/posts/how-i-built-a-3d-game-using-unity-and-c-programming-language/featured.png" />
     </item>
     
   </channel>
