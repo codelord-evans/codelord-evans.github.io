@@ -2,6 +2,8 @@
 title: "How to Install WSL Ubuntu(Latest Version) on Windows 10"
 date: 2024-05-05T21:47:04+03:00
 draft: false
+cascade: 
+       showSummary: true
 ---
 ## Step By Step Guide
 
