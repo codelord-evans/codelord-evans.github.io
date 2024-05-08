@@ -12,14 +12,36 @@ Before we begin, make sure that your Windows 10 system meets the following requi
 - Running Windows 10 version 1607 (Anniversary Update) or later
 - 64-bit operating system
 
+
+
 ## Step 1: Enable the WSL Feature
+Open PowerShell as Administrator. (Right-click on the Start menu and select "Windows PowerShell (Admin)")
+
+    1.Run the following command:
+```console
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+```
+    2.Enable Virtual Machine Platform:
+In the same PowerShell window, run:
+```console
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
+
+
+# OR
+
 Open the Start menu and search for "Turn Windows features on or off."
 ![](enable.png) 
  Click on the result to open the Windows Features dialog box. Scroll down and check the box next to "Windows Subsystem for Linux," then click "OK" to apply the changes. Your system may prompt you to restart your computer to complete the installation.
 
-## Step 2: Install a Linux Distribution
-After the restart, open the Microsoft Store and search for your preferred Linux distribution. Popular options include Ubuntu, Debian, Kali Linux, and openSUSE. For this guide, we'll use Ubuntu as an example. 
-![](wsl.gif)
+{{< alert icon="fire" cardColor="#0000ff" iconColor="#1d3557" textColor="#000000" >}}
+#### At this point make sure to Restart your computer
+{{< /alert >}}
+
+
+## Step 2: Install a Linux Distribution( Ubuntu )
+After the restart, open the Microsoft Store and search for your preferred Linux distribution in this case Ubuntu. Other popular options include Debian, Kali Linux, and openSUSE. For this guide, we'll use Ubuntu as an example. 
+<!-- ![](wsl.gif) -->
 
 Find the "Ubuntu" app in the search results and click "Install" to download and install it on your system.
 
