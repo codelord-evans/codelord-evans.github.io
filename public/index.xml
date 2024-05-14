@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Muuo Codes</copyright>
-    <lastBuildDate>Sun, 05 May 2024 21:47:04 +0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2024 10:14:18 +0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wanna Learn_ABout...</title>
+      <link>http://localhost:1313/posts/wanna-learn_about....md/</link>
+      <pubDate>Tue, 14 May 2024 10:14:18 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/wanna-learn_about....md/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/wanna-learn_about....md/featured.png" />
+    </item>
+    
     <item>
       <title>How to Install WSL Ubuntu(Latest Version) on Windows 10</title>
       <link>http://localhost:1313/posts/how-to-install_wsl----ubuntu/</link>

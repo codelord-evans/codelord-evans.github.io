@@ -27,9 +27,13 @@ I am actively learning about DS and how I can apply the knowledge I acquire in b
 Prior to this, I fortified my skill set with a Software Engineering certificate from ALX, where I honed my abilities in crafting robust, scalable solutions. 
 ![](swe.png "Evan's Software Engineering, with a specialization in Back-End Software Development Certificate.")
 
-#### `African Leardeship X`[ (ALX)](https://www.alxafrica.com/)`, Certificate Artificial Intelligence. Feb, 2024-Apr, 2024.`-Completed
-Additionally, my journey into the cutting-edge domain of Artificial Intelligence was further enriched by an AI certificate from ALX, empowering me with the expertise to navigate the complexities of machine learning and neural networks. These educational milestones serve as pillars of knowledge, shaping my trajectory as a software developer and fueling my drive for innovation in the digital landscape.
-![](ai.png  "Evan's Artificial Intelligence, with focus on professional ettiquet, and personal development Certificate.")
+
+
+#### `Founders Factory Africa`[ (FFA)](https://www.ffa.com/)`, Certificate Entrepreneurship. Mar, 2024-May, 2024.`-Completed
+{{< lead >}}
+Learnt how to validate business ideas, how to target the correct customer segment, how to prototype and Finally pitch.
+{{< /lead >}}
+![](ffa.jpg  "Evan's Entrepreneurship, with focus on personal development Certificate.")
 
 ### Work Experience
 
